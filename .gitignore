@@ -2,27 +2,26 @@
 
 # Ignore specific file
 passwords.txt
-README.md
 
 
 # Ignore all files with extension
-*.log
-*.tmp
+#*.log
+#*.tmp
 *.env
 
 # Ignore entire folder
-node_modules/
-build/
-venv
+# node_modules/
+# build/
+venv/
 
 # Ignore files in any directory
-**/*.pyc
+# **/*.pyc
 
 # But don't ignore this specific file (exception)
-!important.log
+# !important.log
 
 # Ignore files only in root directory
-/debug.log
+# /debug.log
 
 # Ignore files in specific directory
-logs/*.txt
+# logs/*.txt
