@@ -1,7 +1,7 @@
 # Comments start with #
 
 # Ignore specific file
-passwords.txt
+# passwords.txt
 
 
 # Ignore all files with extension
