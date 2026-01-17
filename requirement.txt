@@ -7,3 +7,4 @@ pymupdf
 arxiv
 bs4
 pypdf
+pandas
